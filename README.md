@@ -1,12 +1,19 @@
-# React + Vite
+# 🔐 Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A secure and simple password manager built using the **MERN Stack** (MongoDB, Express.js, React, Node.js), styled with **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🛠️ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔑 Securely store and retrieve passwords
+- 🔐 User authentication system
+- 🧠 Save multiple entries with labels
+- 🔍 Search your saved credentials
+- 💅 Responsive UI with Tailwind CSS
+  
+## 🔧 Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend**: React, Tailwind CSS, Vite
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Token)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
